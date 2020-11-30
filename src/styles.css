@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar-toggler {
+  background-color: aquamarine;
+  margin-bottom: 10px;
+}
+li {
+  color: black;
+}
+input {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+button {
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.card {
+  background-color: aquamarine;
+  border: solid black 2px;
+  margin-bottom: 2px;
+  display: flex;
+  border-radius: 15px;
+}
